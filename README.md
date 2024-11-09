@@ -1,4 +1,4 @@
-<h1>Oi, Seja bem vindo ao meu github :)!</h1>
+<h1>Oi, Seja bem vindo ao meu github :)</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodil/)](https://www.linkedin.com/in/rodrigodil/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://rodrigodil.github.io)](https://rodrigodil.github.io)
